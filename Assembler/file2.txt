@@ -1,0 +1,4 @@
+Beq $t0,$t1,3
+Addi $t2,$t2,1
+Addi $t0,$t0,1
+Jump 0
